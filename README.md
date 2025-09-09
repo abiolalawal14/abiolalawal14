@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hi there, I'm Abiola Lawal 👋  
 
 <p align="center">
@@ -12,7 +12,7 @@
 Welcome to my portfolio! 🚀  
 I’m a **Data Analyst, Data Scientist, and Trainer** who loves exploring, analyzing, and visualizing data to tell compelling stories.  
 This repository highlights my projects across **finance, health, development, and aviation**, showcasing how I use **SQL, Power BI, Excel, and Python** to uncover insights and support **data-driven decision-making**.  
->>>>>>> 9b977a0 (initial porfolio commit)
+
 
 ---
 
