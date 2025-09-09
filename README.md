@@ -3,14 +3,14 @@
 
 <p align="center">
   <a href="https://github.com/abiolalawal14">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Data+Analyst;Aspiring+Data+Scientist;SQL+%7C+Python+%7C+Power+BI;Credit+Risk+%7C+Health+Data+%7C+Customer+Insights;Turning+Data+into+Actionable+Decisions" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Scientist;SQL+%7C+Python+%7C+Power+BI;Credit+Risk+%7C+Health+Data+%7C+Customer+Insights;Turning+Data+into+Actionable+Decisions" alt="Typing Animation" />
   </a>
 </p>
 =======
 # 📊 Abiola Lawal – Data Analytics & Data Science Portfolio  
 
 Welcome to my portfolio! 🚀  
-I’m a **Data Analyst, Aspiring Data Scientist, and Trainer** who loves exploring, analyzing, and visualizing data to tell compelling stories.  
+I’m a **Data Analyst, Data Scientist, and Trainer** who loves exploring, analyzing, and visualizing data to tell compelling stories.  
 This repository highlights my projects across **finance, health, development, and aviation**, showcasing how I use **SQL, Power BI, Excel, and Python** to uncover insights and support **data-driven decision-making**.  
 >>>>>>> 9b977a0 (initial porfolio commit)
 
@@ -22,7 +22,7 @@ I’m a **Data Analyst** with experience in **credit risk, financial services, c
 My expertise spans **ETL processes, dashboard development, and statistical analysis** — helping businesses make informed, data-driven decisions.  
 
 - 💼 Previously worked as **Credit Risk Analyst @ AB Microfinance Bank**  
-- 📊 Founder of **IsholaDeAnalyst Data Consult**, where I train beginners in **Excel, SQL, Power BI, and Python**  
+- 📊 Founder of **Rotech Data Consult**, where I train beginners in **Excel, SQL, Power BI, and Python**  
 - 🎓 Currently learning **Data Science @ ALX** and **Software Engineering @ PLP**  
 - 🧠 Areas of interest: **credit risk analytics**, **healthcare insights**, and **customer behavior analysis**  
 - 💬 Passionate about **teaching and simplifying complex topics** for new learners  
@@ -82,14 +82,14 @@ My expertise spans **ETL processes, dashboard development, and statistical analy
 ---
 
 ## 📄 Resume  
-You can view or download my resume here: **[My CV (PDF)](https://YOUR-CV-LINK.com)**  
+You can view or download my resume here: **[My CV (PDF)](https://1drv.ms/w/c/94c3176a4f1afee2/EQRAQOsl3iNIgEe3zCNI5QoBmdlTZgRC6JwnIMFdKkXfYQ)**  
 
 ---
 
 ## 🌍 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiola-lawal-abdulrafiu)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amabi120)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://abiolalawal14.github.io)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://abiolalawal14.vercel.app/)  
 
 ---
 
@@ -101,7 +101,7 @@ You can view or download my resume here: **[My CV (PDF)](https://YOUR-CV-LINK.co
 - 🎓 Currently learning **Data Science (ALX Academy)** & **Software Engineering (PLP Academy)**  
 - 💡 Passionate about **data-for-social-impact**, **business intelligence**, and **sustainable development**  
 
-📑 [View My Resume](http://abiolalawal14.github.io/Data_Analyst_Portfolio/)  
+📑 [View My Resume](https://1drv.ms/w/c/94c3176a4f1afee2/EQRAQOsl3iNIgEe3zCNI5QoBmdlTZgRC6JwnIMFdKkXfYQ)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abiola-lawal-abdulrafiu) 
 
 ---
