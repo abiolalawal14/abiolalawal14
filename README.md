@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Data+Analyst;Data+Scientist;SQL+%7C+Python+%7C+Power+BI;Credit+Risk+%7C+Health+Data+%7C+Customer+Insights;Turning+Data+into+Actionable+Decisions" alt="Typing Animation" />
   </a>
 </p>
-=======
 # 📊 Abiola Lawal – Data Analytics & Data Science Portfolio  
 
 Welcome to my portfolio! 🚀  
@@ -17,7 +16,6 @@ This repository highlights my projects across **finance, health, development, an
 ---
 
 ## 👨‍💻 About Me  
-<<<<<<< HEAD
 I’m a **Data Analyst** with experience in **credit risk, financial services, consulting, and healthcare data projects**.  
 My expertise spans **ETL processes, dashboard development, and statistical analysis** — helping businesses make informed, data-driven decisions.  
 
